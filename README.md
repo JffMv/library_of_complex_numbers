@@ -1,4 +1,4 @@
 # Hi WELCOME 
-### This is a carpt, where you find my work about numbers complex.
+### This is a carpt, where you find my work about complex numbers.
 
-## For resume: It´s a library the fuctions whith oparations.
+## For resume: It´s a library whith the fuctions the oparations the complex numbers.
